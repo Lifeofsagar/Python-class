@@ -1,2 +1,6 @@
 print("Hi")
 print("Welcome to the class")
+
+def int():
+  print("Hello")
+int()
